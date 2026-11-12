@@ -18,6 +18,10 @@ I build robots that see, map and act, and I prove them in simulation before they
 - **Multi-camera vision analytics:** DeepStream keeps one ID per person across cameras, and a vision-language model verifies incidents like falls and unattended bags.
 - **Perception:** detection (YOLO), segmentation (SAM), 6D pose (Template Pose, MegaPose) and 3D reconstruction (RANSAC/ICP, NeRF) for industrial pick-and-place and inspection.
 
+#### 🎓 Mentoring
+
+- Mentored a two-student team from CMR Institute of Technology for a year: six months remotely, then six months as interns at Ignitarium. Their embedded systems project reached the finals of BECon '25 at IIT Delhi.
+
 #### 🛠️ Personal projects
 
 - **MyCobot 280 sim:** a ROS 2 Humble + Gazebo Harmonic + MoveIt 2 setup for 6D-pose pick-and-place with a simulated RealSense D405, packaged in Docker.
