@@ -13,7 +13,7 @@ I build robots that see, map and act, and I prove them in simulation before they
 - **Warehouse robot digital twin:** an AMR in NVIDIA Isaac Sim that drives itself through very narrow aisles, using cuVSLAM, nvblox and Nav2 on stereo, IMU and wheel odometry. Brought up on the real robot on Jetson Orin.
 - **Humanoid on Renesas RZ/V2H:** gait control, gesture actions, DRP-AI detection and visual-SLAM balancing, with RL walking policies trained in Isaac Gym. Demoed at EdgeTech+ 2024, Renesas AI Tech Day (Yokohama) and VLSID 2025. ([Kakip_Humanoid](https://github.com/Ignitarium-Renesas/Kakip_Humanoid))
 - **MoveIt 2 robot arm on RZ/V2H:** open source and featured on Renesas' RZ/V AI community page ([rzv_robotics_sol](https://github.com/Ignitarium-Renesas/rzv_robotics_sol)).
-- **Robot vacuum, built three times:** RenaVac on RZ/V2L, then an RZ/V2L + RA6M5 split over micro-ROS, then RZ/V2H with hardware-accelerated visual odometry ([write-up on Medium](https://medium.com/@chrisjzac/one-robot-vacuum-three-times-what-each-rebuild-taught-us-about-edge-robotics-1b502a29426d)).
+- **Robot vacuum, built three times:** RenaVac on RZ/V2L, then an RZ/V2L + RA6M5 split over micro-ROS, then RZ/V2H with hardware-accelerated visual odometry ([write-ups on Medium](https://medium.com/@chrisjzac)).
 - **Mobile manipulator on RZ/V2H:** an AMR with a robot arm on board, shown at Embedded World 2025.
 - **Drones:** search and rescue on RZ/V2H with PX4, rail-sleeper inspection on Qualcomm RB3 Gen 2, and indoor warehouse inventory with ArduPilot and RTAB-Map.
 - **Multi-camera vision analytics:** DeepStream keeps one ID per person across cameras, and a vision-language model verifies incidents like falls and unattended bags.
