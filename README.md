@@ -11,7 +11,7 @@ I build robots that see, map and act, and I prove them in simulation before they
 #### 🤖 Work highlights
 
 - **Warehouse robot digital twin:** an AMR in NVIDIA Isaac Sim that drives itself through very narrow aisles, using cuVSLAM, nvblox and Nav2 on stereo, IMU and wheel odometry. Brought up on the real robot on Jetson Orin.
-- **Humanoid on Renesas RZ/V2H:** gait control, gesture actions, DRP-AI detection and visual-SLAM balancing, with RL walking policies trained in Isaac Gym. Demoed at EdgeTech+ 2024, Renesas AI Tech Day (Yokohama) and VLSID 2025.
+- **Humanoid on Renesas RZ/V2H:** gait control, gesture actions, DRP-AI detection and visual-SLAM balancing, with RL walking policies trained in Isaac Gym. Demoed at EdgeTech+ 2024, Renesas AI Tech Day (Yokohama) and VLSID 2025. ([Kakip_Humanoid](https://github.com/Ignitarium-Renesas/Kakip_Humanoid))
 - **MoveIt 2 robot arm on RZ/V2H:** open source and featured on Renesas' RZ/V AI community page ([rzv_robotics_sol](https://github.com/Ignitarium-Renesas/rzv_robotics_sol)).
 - **Mobile manipulator on RZ/V2H:** an AMR with a robot arm on board, shown at Embedded World 2025.
 - **Drones:** search and rescue on RZ/V2H with PX4, rail-sleeper inspection on Qualcomm RB3 Gen 2, and indoor warehouse inventory with ArduPilot and RTAB-Map.
