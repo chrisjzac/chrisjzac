@@ -19,9 +19,10 @@ I build robots that see, map and act, and I prove them in simulation before they
 - **Multi-camera vision analytics:** DeepStream keeps one ID per person across cameras, and a vision-language model verifies incidents like falls and unattended bags.
 - **Perception:** detection (YOLO), segmentation (SAM), 6D pose (Template Pose, MegaPose) and 3D reconstruction (RANSAC/ICP, NeRF) for industrial pick-and-place and inspection.
 
-#### 🎓 Mentoring
+#### 🎓 Mentoring & teaching
 
 - Mentored a two-student team from CMR Institute of Technology for a year: six months remotely, then six months as interns at Ignitarium. Their embedded systems project reached the finals of BECon '25 at IIT Delhi.
+- Co-led a hands-on workshop on classical and AI-driven robotics at CMR Institute of Technology (Dec 2025) for Ignitarium's TechTalks: Isaac Sim, ROS, digital twins and SLAM, with a guided drone project ([post](https://www.linkedin.com/posts/techtalks-isaacsim-ros-ugcPost-7406955047844163585-uJN0/)).
 
 #### 🛠️ Personal projects
 
